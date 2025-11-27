@@ -71,3 +71,7 @@ platforms:
     name: "财联社热门"
   - id: "zhihu"
     name: "知乎"
+  - id: "36kr"
+    name: "36kr"
+  - id: "v2ex",
+    name: "v2ex"
